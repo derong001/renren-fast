@@ -35,8 +35,6 @@ public class AppTestController {
     @ApiOperation("获取用户信息")
     public R userInfo(@LoginUser UserEntity user){
 
-        int i = 0;
-
         return R.ok().put("user", user);
     }
 
