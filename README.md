@@ -46,11 +46,6 @@ renren-fast
 │  └─static 静态资源
 
 ```
-<br> 
-
-<br>
-
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0307/090140_260d672d_63154.jpeg "在这里输入图片标题")
 
 <br> 
 
